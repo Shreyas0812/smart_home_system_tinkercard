@@ -3,4 +3,4 @@ Smart home system designed on Tinkercad with security lock, Gas sensor, and impl
 
 ## Circuit Diagram
 
-<img src = "Project - smart home systems.PNG">
+<img src = "Project - smart home systems.png">
